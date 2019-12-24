@@ -1,9 +1,9 @@
 SwiftCoAP
 =====
 **NEW:** 
-**- Updated for Swift 4.2**
-**- Converted the "SwiftCoAP_Library"-folder into a Swift Package - SPM**
-**- SPM Support for: iOS, tvOS, macOS** (wachOS support is coming later, when Apple releases CFNetwork for watchOS 6.1 SDK ... as of rigth now it is marked "TBD" by Apple in their Framework... so we have to wait, I guess... )
+- **Updated for Swift 4.2**
+- **Converted the "SwiftCoAP_Library"-folder into a Swift Package - SPM**
+- **SPM Support for: iOS, tvOS, macOS** (wachOS support is coming later, when Apple releases CFNetwork for watchOS 6.1 SDK ... as of rigth now it is marked "TBD" by Apple in their Framework... so we have to wait, I guess... )
 
 Download the Client-Implementation **myCoAP** for iOS/watchOS which builds upon this library: [AppStore-Link](https://itunes.apple.com/de/app/mycoap/id1048383045?mt=8)
 
