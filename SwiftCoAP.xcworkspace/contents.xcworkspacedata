@@ -7,9 +7,6 @@
    <FileRef
       location = "group:LICENSE">
    </FileRef>
-   <FileRef
-      location = "group:SwiftCoAP_Library">
-   </FileRef>
    <Group
       location = "container:"
       name = "Example_Projects">
